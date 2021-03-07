@@ -1,0 +1,6 @@
+name: Shifter
+version: 1.0
+main: com.popupmc.shifter.Shifter
+description: Join Travel
+author: junebug12851
+api-version: 1.16
