@@ -73,6 +73,13 @@
             <version>3.0.0</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>com.popupmc</groupId>
+            <artifactId>CustomTradeEvent</artifactId>
+            <scope>system</scope>
+            <version>1.0</version>
+            <systemPath>D:/juneh/Documents/PopupMC/game/plugins/CustomTradeEvent-1.0.jar</systemPath>
+        </dependency>
     </dependencies>
 
 </project>
